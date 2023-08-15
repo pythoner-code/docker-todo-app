@@ -2,7 +2,7 @@
 A simple todo app built with django. This project is an implementation of how to deploy microservices in docker.
 
 ### Setup
-To get this repository, run the following command inside your git enabled terminal
+To get this repository, run the following command inside your git-enabled terminal
 ```bash
 $ git clone https://github.com/pythoner-code/docker-todo-app.git
 ```
